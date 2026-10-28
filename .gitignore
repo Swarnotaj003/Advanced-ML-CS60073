@@ -1,1 +1,5 @@
 *.pdf
+/data/
+/vae_samples/
+/gan_samples/
+/gan_samples_section4/
